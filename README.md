@@ -1,2 +1,3 @@
-# Lista-de-Tarefas
-Cruso do TransDev em Python, como projeto final eu desenvoli uma lista de tarefas.
+# Lista_de_Tarefas
+Este projeto foi desenvolvido como trabalho final do curso Python para Iniciantes, realizado na Transdev. A proposta foi criar uma lista de tarefas (to-do list) simples, onde é possível adicionar, remover e listar atividades do dia a dia.
+Além de consolidar conceitos fundamentais da linguagem — como estruturas de dados, funções e manipulação de arquivos — o projeto também foi uma oportunidade de praticar boas práticas de programação e aprender na prática como compartilhar código no GitHub. Foi um desafio interessante e uma experiência divertida de transformar teoria em algo funcional.
